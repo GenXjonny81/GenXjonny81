@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GenXjonny81
 - 👀 I’m interested in super noob coding, recycling old tech
-- 🌱 I’m currently learning python and github
-- 💞️ I’m looking to collaborate on Crypto mining,3d printing, battery management software, solar panal management software
+- 🌱 I’m currently learning Kotlin and Android Studio
+- 💞️ I’m looking to collaborate on Crypto, Web3 ,3d printing
 - 📫 How to reach me wallajon@icloud.com
 
 <!---
